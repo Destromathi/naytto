@@ -55,7 +55,7 @@ def main():
                     return
 
         if room["next"] is None:
-            print("🏆 You have conquered Grimhall!")
+            print(f"🏆 You have conquered Grimhall, {player.name}! Rejoice for now... for you have heard that neighbouring city of Grimstad is having problems with a new threat.")
             return
 
         input("Press Enter to continue...")
