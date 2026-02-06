@@ -2,11 +2,13 @@
 
 Tämä seikkailu on synkkä ja eeppinen matka pelon, rohkeuden ja selviytymisen läpi.
 Pelaaja kulkee vaarallisesta maailmasta toiseen, kohdaten yhä kovempia vihollisia ja lopulta kohtaamalla koko tarinan ytimessä olevan pahuuden.
-
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+HOW TO PLAY
 Käytä kirjoitusta tehdäksesi toiminnot pelissä, kuten hyökkää ja paranna, pue eeppisemmät varusteet kirjoittamalla ensin inventory, sitten equip ja valitse listasta mitä haluat
 kantaa mukanasi pahuutta vastaan
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 1. Grimhall Village – Lähtöpaikka
 
@@ -20,7 +22,7 @@ Seikkailu alkaa Grimhallin kylästä. Kylä vaikuttaa rauhalliselta, mutta jokin
 Täältä ei löydy vihollisia, mutta tämä on viimeinen turvallinen paikka pitkään aikaan.
 (Jos tarkkoja ollaan, niin koko pelissä)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 2. Darkwood – Varjojen metsä
 
@@ -37,7 +39,7 @@ Kylän ulkopuolella alkaa Darkwood: tiheä, synkkä metsä, jossa mikään ei ol
 * Selviydy ensimmäisistä taisteluista
 * Opettele taistelumekaniikat
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 3. Cave – Kylmä pimeys
 
@@ -54,7 +56,7 @@ Metsän uumenista löydät luolan. Sen sisällä ilma on raskas ja täynnä kuol
 * Selviydy ahtaissa tiloissa
 * Varaudu entistä vaarallisempiin alueisiin
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 4. Tundra – Jäätävä erämaa
 
@@ -71,7 +73,7 @@ Luolasta noustuasi saavut tundralle. Loputon valkoinen helvetti testaa kestävyy
 * Selviydy äärimmäisissä olosuhteissa
 * Todista olevasi sankari, et vain selviytyjä
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 5. Old Castle – Kirotut rauniot
 
@@ -88,7 +90,7 @@ Kaukaa näkyvät vanhan linnan rauniot. Ne kätkevät synkän historian ja varti
 * Murtaudu linnan sisään
 * Lähesty pahuutta sen omalla maaperällä
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 6. Abandoned Dungeon – Loppukoitos
 
@@ -104,8 +106,8 @@ Linnan alla odottaa hylätty vankityrmä. Tämä on kaiken alku ja loppu. Pimeyd
 * Vapauta maailma kirouksesta
 * Selviydy eeppisestä lopputaistelusta
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 ## LOPPU
 
 Jos Ironhand kaatuu, pahuuden ote murtuu. Grimhallin kylä voi jälleen hengittää vapaasti – ja sankarin nimi jää elämään legendoissa.
