@@ -11,11 +11,6 @@ RESET = "\033[0m"    # reset color
 def fight(player, enemy):
     print(f"\n⚔️ {enemy.name} emerges from the shadows!")
 
-    # Skip fight if boss already defeated
-    if getattr(enemy, "once_only", False):
-        print(f"{YELLOW}{enemy.name} has already been defeated once!{RESET}")
-        return True
-
     while player.is_alive() and enemy.is_alive():
         # Show HP
         print(f"\n{BLUE}{player.name} HP: {player.hp}/{player.max_hp}{RESET}")
