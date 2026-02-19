@@ -5,8 +5,6 @@ from enemies import create_enemy
 from fight import fight
 import random
 
-# Keep track of bosses that appear only once
-spawned_bosses = set()
 
 # Define enemies per zone (except Abandoned Dungeon which has only Ironhand)
 zone_enemies = {
@@ -34,10 +32,6 @@ def main():
                 if not enemies_in_zone:
                     break  # no enemies
                 enemy_name = random.choice(enemies_in_zone)
-
-                # Skip boss if already spawned
-                if enemy_name in spawned_bosses:
-                    continue
 
                 enemy = create_enemy(enemy_name)
 
